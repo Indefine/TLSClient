@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -g CMakeFiles/http-client-async-ssl.dir/main.cpp.o -o http-client-async-ssl  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -lpthread 
